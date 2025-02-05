@@ -1,6 +1,6 @@
 # ReactDemo
 
-Demo Ecommerce On-line Cloth Shopping Web Application with Cart System(Not Fully Implemented).
+Demo Ecommerce On-line Clothes Shopping Web Application with Cart System(Not Fully Implemented).
 Using React.JS and Bootstrap
 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/[image.jpg](https://raw.githubusercontent.com/AhmedHassan650/ecommerce-React/refs/heads/master/ReactDemo/SnapShots/DetailsPage.png)?raw=true)
